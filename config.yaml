@@ -1,0 +1,3 @@
+output_path: "./output"
+headless: false  # 设置为 true 则不打开浏览器窗口
+tags: ["ChatGPT", "记录", "备份"]
